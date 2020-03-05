@@ -1,2 +1,2 @@
-test create file.
 test update file test.txt
+test hapus tambah line di file test.txt
